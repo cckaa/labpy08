@@ -32,3 +32,25 @@
         tugas = int(input("Nilai Tugas\t: "))
         akhir = tugas*30/100 + uts*35/100 + uas*35/100
         data[nama] = nim, uts, uas, tugas, akhir
+        
+### OUTPUT 
+
+- Menambahkan data
+
+      ![menambahkan data](https://user-images.githubusercontent.com/92702411/148877866-9fa1c7f7-e0a4-4c8c-9544-6e1baa6e88a8.png)
+     
+- Menampilkan data
+
+      ![menampilkan data](https://user-images.githubusercontent.com/92702411/148877993-3509f703-6876-4224-9a26-1207e11f7204.png)
+      
+- Mengubah data
+          
+      ![mengubah data](https://user-images.githubusercontent.com/92702411/148878191-8bff4cff-6d51-4436-b36b-e3ed5e9a3ca7.png)
+
+- Menghapus data
+
+      ![menghapus data](https://user-images.githubusercontent.com/92702411/148878292-058aff5d-6100-4840-b7cc-14ef56adfed9.png)
+
+- Jika sudah selesai input, pilih menu 'K' untuk memberhentikan program
+
+      ![memberhentikan data](https://user-images.githubusercontent.com/92702411/148878504-93c4bf3a-c002-40a7-b4a4-09df3a8bcf6c.png)
